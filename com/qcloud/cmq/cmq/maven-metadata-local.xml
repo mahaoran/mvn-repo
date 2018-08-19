@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.qcloud.cmq</groupId>
+  <artifactId>cmq</artifactId>
+  <versioning>
+    <release>1.0.2-topic</release>
+    <versions>
+      <version>1.0.2-topic</version>
+    </versions>
+    <lastUpdated>20180819041205</lastUpdated>
+  </versioning>
+</metadata>
